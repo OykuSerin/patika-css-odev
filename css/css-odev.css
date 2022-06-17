@@ -1,0 +1,18 @@
+nav {
+    display: block;
+    padding: 20px 20px;
+    font-size: 20px;
+    background-color: #6495ED;
+    text-align: center;
+  }
+a:hover{
+  color:gray;
+}
+
+.article {float: right;}
+.article section {width: 50%; float: right;}
+
+.article-sayfa {
+  display: block;
+  text-align: center;
+}
